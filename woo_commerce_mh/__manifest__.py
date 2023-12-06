@@ -10,7 +10,7 @@
 
     'author': 'MMH.',
     'maintainer': 'MMH COMPANY',
-    'depends': ['common_connector_library'],
+    'depends': ['common_connector_library_mh'],
     'data': [
         'security/group.xml',
         'security/ir.model.access.csv',
