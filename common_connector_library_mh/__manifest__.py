@@ -10,6 +10,7 @@
     'summary': """Create a versatile approach to handle various operations and establish
     an automated workflow system to efficiently manage the order processing automatically.""",
     'depends': ['delivery', 'sale_stock', 'sale_management','account'],
+    "images": ["static/description/banner.png"],
     'data': ['security/ir.model.access.csv',
              'data/ir_sequence.xml',
              'data/ir_cron.xml',

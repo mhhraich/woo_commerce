@@ -11,6 +11,7 @@
     'author': 'MMH.',
     'maintainer': 'MMH COMPANY',
     'depends': ['common_connector_library_mh'],
+    "images": ["static/description/banner.png"],
     'data': [
         'security/group.xml',
         'security/ir.model.access.csv',
